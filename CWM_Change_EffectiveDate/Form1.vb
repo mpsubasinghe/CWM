@@ -14,8 +14,8 @@ Public Class Form1
 
     Private Sub Form1_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
         con.Open()
-        LoadCombo(GetDataSQL("p1", "p2", "p3", "p4", "p5", "@rd", "pn2", "pn3", "pn4", "pn5", "SELECT CompanyCode FROM DisGroupType GROUP BY CompanyCode  ORDER BY CompanyCode"), ComboBoxCompany, "CompanyCode")
-        LoadCombo(GetDataSQL("p1", "p2", "p3", "p4", "p5", "@rd", "pn2", "pn3", "pn4", "pn5", "SELECT DivCode FROM DisGroupType GROUP BY DivCode  ORDER BY DivCode"), ComboBoxDiv, "DivCode")
+        LoadCombo(GetDataSQL("p1", "p2", "p3", "p4", "p5", "@rd", "pn2", "pn3", "pn4", "pn5", "SELECT CompanyCode FROM DisGroupType GROUP BY CompanyCode  ORDER BY  CompanyCode"), ComboBoxCompany, "CompanyCode")
+        LoadCombo(GetDataSQL("p1", "p2", "p3", "p4", "p5", "@rd", "pn2", "pn3", "pn4", "pn5", "SELECT DivCode FROM DisGroupType GROUP BY DivCode  ORDER BY  DivCode"), ComboBoxDiv, "DivCode")
         ComboBoxCompany.SelectedIndex = 0
         ComboBoxDiv.SelectedIndex = 0
     End Sub
