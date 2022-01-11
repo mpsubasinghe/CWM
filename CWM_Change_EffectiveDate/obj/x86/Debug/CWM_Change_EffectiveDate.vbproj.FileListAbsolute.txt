@@ -1,0 +1,9 @@
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Change_EffectiveDate\CWM_Change_EffectiveDate\bin\Debug\CWM_Change_EffectiveDate.exe
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Change_EffectiveDate\CWM_Change_EffectiveDate\bin\Debug\CWM_Change_EffectiveDate.pdb
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Change_EffectiveDate\CWM_Change_EffectiveDate\bin\Debug\CWM_Change_EffectiveDate.xml
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Change_EffectiveDate\CWM_Change_EffectiveDate\obj\x86\Debug\CWM_Change_EffectiveDate.Form1.resources
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Change_EffectiveDate\CWM_Change_EffectiveDate\obj\x86\Debug\CWM_Change_EffectiveDate.Resources.resources
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Change_EffectiveDate\CWM_Change_EffectiveDate\obj\x86\Debug\CWM_Change_EffectiveDate.vbproj.GenerateResource.Cache
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Change_EffectiveDate\CWM_Change_EffectiveDate\obj\x86\Debug\CWM_Change_EffectiveDate.exe
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Change_EffectiveDate\CWM_Change_EffectiveDate\obj\x86\Debug\CWM_Change_EffectiveDate.xml
+c:\users\mano\documents\visual studio 2010\Projects\CWM_Change_EffectiveDate\CWM_Change_EffectiveDate\obj\x86\Debug\CWM_Change_EffectiveDate.pdb

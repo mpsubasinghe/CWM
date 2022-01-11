@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CWM_Change_EffectiveDate
+</name>
+</assembly>
+<members>
+<member name="P:CWM_Change_EffectiveDate.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CWM_Change_EffectiveDate.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CWM_Change_EffectiveDate.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:CWM_Change_EffectiveDate.Module1.con">
+   Public con As New SqlConnection("Data Source=10.3.2.43,1433;Initial Catalog=SFAHeadofficeDBC;User ID=admin;Password=a;")
+
+</member>
+</members>
+</doc>
